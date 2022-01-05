@@ -1,16 +1,3 @@
-adkjlfnsdlaf
-asldkfjnasd
-asdklfjh
-kJBCaklsc
-lSKDCBkdj
-;F;hjdosaHKWJN2
-aosdfal;ksDH;LA
-    wdjlnw;lDJKN;alknd
-<?php
-<?php
-<?php
-<?php
-<?php
 <?php
     
     /**
